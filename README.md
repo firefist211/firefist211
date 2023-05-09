@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @firefist211
 - 👀 I’m interested in hardware
 - 🌱 I’m currently learning anything i can cuz i am dumb at coding
-- 💞️ I’m looking to collaborate on replit.com
 - 📫 How to reach me replit.com
 
 <!---
